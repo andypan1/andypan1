@@ -31,4 +31,4 @@ I'm currently an undergraduate student at the University of Michigan - Ann Arbor
    - Linkedin: https://www.linkedin.com/in/andy-pan-/
 
 - - - -
-Unfortunately, I have to keep many of my projects in private repositories. If you would like to take a look, shoot me an email!
+Unfortunately, I have to keep some of my projects in private repositories. If you would like to take a look, shoot me an email!
