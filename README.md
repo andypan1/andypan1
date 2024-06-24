@@ -24,11 +24,12 @@ I'm currently an undergraduate student at the University of Michigan - Ann Arbor
 
 🏀 I'm a huge sports person, feel free to talk with me about anything related to basketball, football, and/or baseball!
 
-🌎 I also love to travel the world, and in 2023 I visited China, Hong Kong, Belgium, and Hawaii!
+🌎 I also love to travel the world, head over to my website to see where I have been!
 
 📫 Contact Info:
    - Email: andypan159@gmail.com
    - Linkedin: https://www.linkedin.com/in/andy-pan-/
+   - Website: https://andypan1.github.io/
 
 - - - -
 Unfortunately, I have to keep some of my projects in private repositories. If you would like to take a look, shoot me an email!
