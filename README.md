@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm currently an undergraduate student at the University of Michigan - Ann Arbor. I'm majoring in Computer Science, and interested in pursuring a career in software engineering.
 
 ### About Me
-💻 I'm continuing learning C++, and starting to learn Swift and the Xcode environment. Also brushing up on my Python.
+💻 I'm continuing learning C++, and starting to learn SQL and Javascript. Also brushing up on my Python.
 
 📚 I'm currently working on my degree, personal projects, and leetcode.
 
