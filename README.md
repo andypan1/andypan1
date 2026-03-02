@@ -15,21 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently an undergraduate student at the University of Michigan - Ann Arbor. I'm majoring in Computer Science, and interested in pursuring a career in software engineering.
+I was an undergraduate student at the University of Michigan - Ann Arbor, and I majored in Computer Science.
 
 ### About Me
 💻 I'm continuing learning C++, and starting to learn SQL and Javascript. Also brushing up on my Python.
 
-📚 I'm currently working on my degree, personal projects, and leetcode.
+📚 I'm currently working one a personal project.
 
 🏀 I'm a huge sports person, feel free to talk with me about anything related to basketball, football, and/or baseball!
 
-🌎 I also love to travel the world, head over to my website to see where I have been!
+🌎 I also love to travel the world!
 
 📫 Contact Info:
    - Email: andypan159@gmail.com
    - Linkedin: https://www.linkedin.com/in/andy-pan-/
-   - Website: https://andypan1.github.io/
 
 - - - -
 Unfortunately, I have to keep some of my projects in private repositories. If you would like to take a look, shoot me an email!
