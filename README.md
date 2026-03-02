@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I was an undergraduate student at the University of Michigan - Ann Arbor, and I majored in Computer Science.
+I was an undergraduate computer science student at the University of Michigan - Ann Arbor.
 
 ### About Me
 💻 I'm continuing learning C++, and starting to learn SQL and Javascript. Also brushing up on my Python.
