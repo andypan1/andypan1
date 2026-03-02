@@ -20,7 +20,7 @@ I was an undergraduate computer science student at the University of Michigan - 
 ### About Me
 💻 I'm continuing learning C++, and starting to learn SQL and Javascript. Also brushing up on my Python.
 
-📚 I'm currently working one a personal project.
+📚 I'm currently working on a (very) personal project.
 
 🏀 I'm a huge sports person, feel free to talk with me about anything related to basketball, football, and/or baseball!
 
